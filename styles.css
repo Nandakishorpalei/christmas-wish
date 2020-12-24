@@ -35,7 +35,7 @@
 }
 .right-side{
   position:absolute;
-  top: 0;
+  top: 0; 
   right: 0;
   background: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.7)),url("https://images2.imgbox.com/99/49/EzXoikxx_o.jpg") no-repeat;
   background-size: cover;
